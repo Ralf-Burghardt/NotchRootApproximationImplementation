@@ -1,0 +1,7 @@
+This is the official list of copyright holders and authors of the ImplementationOfNotchRootApproximation Software.
+
+Institut für Maschinelle Anlagentechnik und Betriebsfestigkeit 
+	Ralf Burghardt
+	Lukas Masendorf
+	Michael Wächter
+	Alfons Esderts
